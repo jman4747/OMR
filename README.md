@@ -1,0 +1,2 @@
+# OMR
+Organizational Memory Repository
