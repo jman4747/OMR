@@ -45,14 +45,14 @@
   
   pagebreak(weak: true)
 
-  heading("Documnet Control")
+  heading("Document Control")
   align(left)[
     *Document Type:* #doc_type \
     *Document \#:* #document_number \
     *Status:* #status \
     *Version:* #version \
     *Effective Date:* #effective_date \
-    *Sorce Repository:* https://github.com/
+    *Source Repository:* https://github.com/
   ]
 
   heading("Authors")

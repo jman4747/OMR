@@ -128,7 +128,7 @@ The Intelligence Team shall:
 - Gather information about the infrastructure, materiel resources, and engineering and manufacturing capabilities of other FRC teams.
 
 === Operations Team
-Operations is the general service provider that ensures that all other sub-teams have what they need to fulfil their roles.
+Operations is the general service provider that ensures that all other sub-teams have what they need to fulfill their roles.
 Operations is responsible for maintaining all tools, equipment and, furniture and managing inventory of all consumables.
 
 The Operations team shall:
@@ -175,7 +175,7 @@ The Outreach Team is responsible for recruiting sponsors, students, and mentors,
 
 The Outreach Team shall:
 - recruit students, mentors, and sponsors
-- fulfil sponsor requirements and ensure other sub-teams do so as well
+- fulfill sponsor requirements and ensure other sub-teams do so as well
 - plan events
 - requisition supplies and services from sponsors
 - approve designs that the ME Team wants sponsors manufacture
@@ -458,7 +458,7 @@ Controlled Working Files (CWF) are:
 Project Planning Documents (PPD) capture the Action Items process in @action_items or the Project process in @projects.
 
 == Policies
-Grayson Robotics Policies capture processes and techniques intended for repeated use indefinitely.
+Grayson Robotics Policies capture processes and techniques intended for repeated use over an indefinite period of time.
 Team members shall author these documents only when the process is well known, and they expect it to be relevant for over a year.
 Team members shall take care to create or deprecate policies only after careful reflection on the underlying process.
 
