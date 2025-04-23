@@ -473,13 +473,13 @@ Team members shall not standardize unnecessary or unsafe rules and processes.
 The sub-Teams and team members that write or approve a standard must follow its processes.
 
 SDRs shall adhere to the following:
-- Standards can be interdisciplinary and apply to multiple teams.
+- SDR can be interdisciplinary and apply to multiple teams.
 - Immediate safety concerns always take precedent over following SDRs.
 - SDRs written by the Safety sub-team always take precedent over other SDRs.
-- Standards supersede training documents in the event of a conflict.
-- Standards shall not conflict with each other.
+- SDR supersede training documents in the event of a conflict.
+- SDR shall not conflict with each other.
 
-Instead of defining a new Standard the document may simply reference external media (papers, books, videos, etc.),
+Instead of defining a new SDR the document may simply reference external media (papers, books, videos, etc.),
 or standards from outside organizations (ANSI, ISO, Georgia Tech, etc.). 
 A copy of the referenced material shall be available to all team members.
 
@@ -577,12 +577,12 @@ Each TRM document shall meet the following requirements:
 + List any hazardous materials learners may encounter, required Personal Protective Equipment (PPE), and any other known safety hazards.
 + List intended outcomes for learners.
 + Detail what the training covers and - at the discretion of the author - note similar topics the document will not cover.
-+ All training documents shall begin with the following warranty and disclaimer:
++ All TRM documents shall begin with the following warranty and disclaimer:
 "The authors, maintainers, and distributors of this document shall not be liable for any damages, losses, injury, costs or expenses, direct,
 indirect or incidental, consequential or special, arising out of, or related to the use of information within
 this document, or any material it references."
 
-A training document may substitute its content section for some other media (video, web-based article, book, etc.),
+A TRM document may substitute its content section for some other media (video, web-based article, book, etc.),
 including sub-sets of other media such as a timestamp of a video or pages of a book so long as:
 - The author credits the original content author if known.
 - The author links to the webpage source if available.
@@ -593,7 +593,7 @@ including sub-sets of other media such as a timestamp of a video or pages of a b
 Auditors of TRMs shall - at minimum - do the following:
 - Remove outdated or incorrect information.
 - Check for and remove previously unknown safety hazards.
-- Ensure training doesn't reinforce poor safety practices.
+- Ensure the materials don't reinforce poor safety practices.
 - Update references to external documents or media.
 - Eliminate conflicting information.
 - Find instructions and information to improve.
