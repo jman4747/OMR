@@ -19,6 +19,7 @@
     == V0 - yyyy-mm-dd
     - initial release
   ],
+  terms: (:),
   body
 ) = {
   // Set the document's basic properties.
@@ -68,6 +69,13 @@
 
   heading("Scope")
   scope
+
+  if terms.len() > 0 [
+    #heading("Terms")
+    #for (term, description) in terms [
+      / #term: #description
+    ]
+  ]
 
   // Main body.
   pagebreak(weak: true)

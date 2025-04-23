@@ -1,4 +1,4 @@
-#import "org-template.typ": *
+#import "template.typ": *
 
 #show: project.with(
   title: "Organizing Manual",
@@ -16,28 +16,27 @@
     - Define organizational documentation.
     - Define communications methods.
     - Define a general Code of Conduct (CoC) and safety rules.
-  ]
+  ],
+	terms: (
+		CAR: "Corrective Action Report",
+		CADD: "Computer Aided Design and Drafting",
+		EE: "Electrical Engineering",
+		FIRST: "For Inspiration and Recognition of Science and Technology",
+		FRC: "FIRST Robotics Competition",
+		IT: "Information Technology",
+		JSA: "Job Safety Analysis",
+		ME: "Mechanical Engineering",
+		OMR: "Organizational Memory Repository",
+		ORG: "Organizational Standard",
+		PPE: "Personal Protective Equipment",
+		PRJ: "Project Document",
+		SDR: "Team Standard",
+		SE: "Systems Engineering",
+		TRM: "Training Manual",
+		YPP: "Youth Protection Program",
+	)
 )
-
 // This begins the section specific to this document
-= Terms
-/ CAR: Corrective Action Report
-/ CADD: Computer Aided Design and Drafting
-/ EE: Electrical Engineering
-/ FIRST: For Inspiration and Recognition of Science and Technology
-/ FRC: FIRST Robotics Competition
-/ IT: Information Technology
-/ JSA: Job Safety Analysis
-/ ME: Mechanical Engineering
-/ OMR: Organizational Memory Repository
-/ ORG: Organizational Standard
-/ PPE: Personal Protective Equipment
-/ PRJ: Project Document
-/ SDR: Team Standard
-/ SE: Systems Engineering
-/ TRM: Training Manual
-/ YPP: Youth Protection Program
-
 = Activities
 Grayson Robotics is an organization for teaching high school students how to build and operate large (150 lbs), semi-autonomous, mobile robots.
 We conduct our operations, communications, fundraising, and engineering activities to accomplish this.
