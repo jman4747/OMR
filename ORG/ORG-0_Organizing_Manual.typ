@@ -473,11 +473,11 @@ Team members shall not standardize unnecessary or unsafe rules and processes.
 The sub-Teams and team members that write or approve a standard must follow its processes.
 
 SDRs shall adhere to the following:
-- SDR can be interdisciplinary and apply to multiple teams.
+- SDRs can be interdisciplinary and apply to multiple teams.
 - Immediate safety concerns always take precedent over following SDRs.
 - SDRs written by the Safety sub-team always take precedent over other SDRs.
-- SDR supersede training documents in the event of a conflict.
-- SDR shall not conflict with each other.
+- SDRs supersede training documents in the event of a conflict.
+- SDRs shall not conflict with each other.
 
 Instead of defining a new SDR the document may simply reference external media (papers, books, videos, etc.),
 or standards from outside organizations (ANSI, ISO, Georgia Tech, etc.). 
@@ -572,17 +572,17 @@ In that case, the Project documents or Action Item Issues shall contain a refere
 Training Manuals organize and preserve written instructions and other media that Grayson Robotics uses for reference, training, and teaching.
 A training document may specify instructions for teaching or take the form of a tutorial regarding any subject applicable to the sub-team the document is relevant to. 
 
-Each TRM document shall meet the following requirements:
+Each TRM shall meet the following requirements:
 + Named and titled for the tool, technique, technology, or process it focuses on.
 + List any hazardous materials learners may encounter, required Personal Protective Equipment (PPE), and any other known safety hazards.
 + List intended outcomes for learners.
 + Detail what the training covers and - at the discretion of the author - note similar topics the document will not cover.
-+ All TRM documents shall begin with the following warranty and disclaimer:
++ All TRM shall begin with the following warranty and disclaimer:
 "The authors, maintainers, and distributors of this document shall not be liable for any damages, losses, injury, costs or expenses, direct,
 indirect or incidental, consequential or special, arising out of, or related to the use of information within
 this document, or any material it references."
 
-A TRM document may substitute its content section for some other media (video, web-based article, book, etc.),
+A TRM may substitute its content section for some other media (video, web-based article, book, etc.),
 including sub-sets of other media such as a timestamp of a video or pages of a book so long as:
 - The author credits the original content author if known.
 - The author links to the webpage source if available.
