@@ -58,7 +58,10 @@
   heading("Authors")
   for author in authors {
     [
-      *#author.name* #author.email \
+      *#author.name*
+      #if  {author.email + ""}.len() > 0 {
+        [ \- #author.email] 
+      } \
     ]
   }
 
