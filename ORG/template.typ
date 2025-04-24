@@ -7,7 +7,7 @@
   doc_type: "ORG",
   date: none,
   effective_date: none,
-  document_number: -1,
+  document_number: none,
   status: "DRAFT",
   version: "N/A",
   purpose: "What will writing this accomplish?",
@@ -90,7 +90,7 @@
   [
     #doc_type\-#document_number SHA256: \
     #text(size: 11pt)[
-    	#read(doc_type + "-" + str(document_number) + "/sha256.txt")
+    	#read(str(title).replace(" ", "_") + "/sha256.txt")
     ] \
 
     Template SHA256: \
